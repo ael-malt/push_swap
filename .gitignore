@@ -1,0 +1,6 @@
+*.o
+libft.a
+a.out
+checker_linux
+push_swap.h.gch
+push_swap
